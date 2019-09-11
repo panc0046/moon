@@ -1,1 +1,29 @@
-
+body {
+    background-color: azure;
+}
+.header {
+    text-align: center;
+    color: darkcyan;
+}
+.page-content {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+}
+.image {
+    height: 300px;
+    width: 300px;
+}
+.sub-class {
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    color: black;
+    line-height: 1.6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.column-type {
+    float: left;
+    width: 50%;
+}
